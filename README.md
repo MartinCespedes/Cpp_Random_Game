@@ -19,7 +19,7 @@ Copyright (c) 2023 Martin Cespedes All rights reserved.
 
 ## C++ App ScreenShot
 
-- ![C++ Random Guess Game](/assets/C%2B%2B_Game.png)
+![C++ Random Guess Game](/assets/C%2B%2B_Game.png)
 
 
 
